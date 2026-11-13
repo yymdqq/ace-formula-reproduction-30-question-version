@@ -1,0 +1,2 @@
+trial,empty_playbook_accuracy_pct,final_accuracy_pct,accuracy_gain_pp,wall_seconds,api_calls,reflection_retry_calls,input_tokens,output_tokens
+1,-6.666666666666671,-6.666666666666671,-1.0658141036401503e-14,-11.52652790000866,-4,-1,126806,-490
